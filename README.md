@@ -5,6 +5,7 @@ I'm a forward deployed engineer at Lrya, skilled in full stack development and d
 -----
 
 Some recent projects of mine are:
+
 [ClearTalk CV Speech Pathology Tool](https://github.com/spikyMalkallam/HackathonClinicApp) - An AI/Computer Vision Powered Speech Pathology Tool 
 
 [Sample Covariance Matrix Estimation](https://www.kaggle.com/code/jerrymahajan/fork-of-sample-cov) - Estimating the error in sample covariance matrices by comparing with infinite dimensional free probabilistic analogues
