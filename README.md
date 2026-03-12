@@ -1,6 +1,6 @@
 ## Hey, I'm Jerry 👋
 
-I'm a forward deployed engineer at Lrya, skilled in full stack development and data science. I come from a mathematics background and enjoy crunching the numbers on projects. I'm big on understanding how things work under the hood and apply this in my software development.
+I'm a forward deployed engineer at Lyra, skilled in full stack development and data science. I come from a mathematics background and enjoy crunching the numbers on projects. I'm big on understanding how things work under the hood and apply this in my software development.
 
 -----
 
