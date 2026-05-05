@@ -6,7 +6,7 @@ I'm a forward deployed engineer at Lyra, skilled in full stack development and d
 
 Some recent projects of mine are:
 
-[Lyrola](lyrola.vercel.app) - A granola style AI Meeting notepad, listens and enhances your notes. 
+[Lyrola](https://lyrola.vercel.app) - A granola style AI Meeting notepad, listens and enhances your notes. 
 
 [Codebase Onboarding Agent](https://github.com/jerrym1299/codebase-onboading-agent) - an AI Agent /chatbot to onboard users to a codebase, includes custom tool calls, agent handoffs, a vector db for searching through multiple files for RAG.
 
