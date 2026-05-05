@@ -10,7 +10,10 @@ Some recent projects of mine are:
 
 [Sample Covariance Matrix Estimation](https://www.kaggle.com/code/jerrymahajan/fork-of-sample-cov) - Estimating the error in sample covariance matrices by comparing with infinite dimensional free probabilistic analogues
 
+[Codebase Onboarding Agent](https://github.com/jerrym1299/codebase-onboading-agent) - an AI Agent /chatbot to onboard users to a codebase, includes custom tool calls, agent handoffs, a vector db for searching through multiple files for RAG.
+
 [Single Image training of a GAN to generate architectural styles](https://www.kaggle.com/code/jerrymahajan/singan-adaptation-for-architectural-reconstruction) - Training a generative adversarial network on a single image, adapting for keeping architectural styles
+
 
 ---
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
