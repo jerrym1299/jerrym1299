@@ -6,11 +6,13 @@ I'm a forward deployed engineer at Lyra, skilled in full stack development and d
 
 Some recent projects of mine are:
 
+[Lyrola](lyrola.vercel.app) - A granola style AI Meeting notepad, listens and enhances your notes. 
+
+[Codebase Onboarding Agent](https://github.com/jerrym1299/codebase-onboading-agent) - an AI Agent /chatbot to onboard users to a codebase, includes custom tool calls, agent handoffs, a vector db for searching through multiple files for RAG.
+
 [ClearTalk CV Speech Pathology Tool](https://github.com/spikyMalkallam/HackathonClinicApp) - An AI/Computer Vision Powered Speech Pathology Tool 
 
 [Sample Covariance Matrix Estimation](https://www.kaggle.com/code/jerrymahajan/fork-of-sample-cov) - Estimating the error in sample covariance matrices by comparing with infinite dimensional free probabilistic analogues
-
-[Codebase Onboarding Agent](https://github.com/jerrym1299/codebase-onboading-agent) - an AI Agent /chatbot to onboard users to a codebase, includes custom tool calls, agent handoffs, a vector db for searching through multiple files for RAG.
 
 [Single Image training of a GAN to generate architectural styles](https://www.kaggle.com/code/jerrymahajan/singan-adaptation-for-architectural-reconstruction) - Training a generative adversarial network on a single image, adapting for keeping architectural styles
 
